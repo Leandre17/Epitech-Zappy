@@ -216,12 +216,4 @@ The full and technical documentation is available [here](https://github.com/X-VI
 <br>
 <br>
 <div align="center" href="">
-
-![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
-![ForTheBadge made-with-c](https://forthebadge.com/images/badges/made-with-c.svg)
-![ForTheBadge made-with-cpp](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
-![ForTheBadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)
-
 </div>
