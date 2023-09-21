@@ -154,7 +154,7 @@ The full and technical documentation is available [here](https://github.com/X-VI
         </td>
         <td align="center" style="min-width: 150px; border: 2px solid; padding: 20px">
             <a href="https://github.com/Leandre17">
-                <img src="https://media.licdn.com/dms/image/D4E03AQGOJK5u8TI7Jw/profile-displayphoto-shrink_400_400/0/1675071278589?e=1692230400&v=beta&t=KcKvDf85ui89yx2S9b_XQ_FeM8Xn0EckaBaJzKKcUKY" width="150px;" alt="Léandre GODET profile picture"/>
+                <img src="https://media.licdn.com/dms/image/D4E35AQF71M_yCZLAsQ/profile-framedphoto-shrink_200_200/0/1695285794878?e=1695895200&v=beta&t=aZZG2NZJnkCeEePP3jYZE9IviKXvBCDjCzHAms7ZhUE" width="150px;" alt="Léandre GODET profile picture"/>
                 <br />
                 <b>Léandre GODET</b>
             </a>
